@@ -1,0 +1,1 @@
+C:\Anaconda3\Scripts\jupyter.exe notebook
